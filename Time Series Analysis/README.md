@@ -13,6 +13,8 @@ If you want to know more about SARIMA, take a look at:
 ### Date: 2020-04-02
 ### email: mguimaraes@protonmail.com
 
+----
+
 # Using SARIMAX
 
 ## Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors
@@ -30,3 +32,12 @@ Our exogenous variable will be the American holidays. The dataset contains 478 d
 ### Author: Marcelo M. Guimarães
 ### Date: 2020-04-07
 ### email: mguimaraes@protonmail.com
+
+----
+
+# Using Recurrent Neural Networks
+
+In progress...
+
+Case 1:
+Case 2:
