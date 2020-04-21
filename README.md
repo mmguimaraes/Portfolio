@@ -16,7 +16,7 @@
 7) K Means Clustering  
 8) Principal Component Analysis (PCA) (to be added)
 9) Recommender Systems 
-10) Natural Language Processing (NLP) (to be added)
+10) Natural Language Processing (NLP) 
 11) Deep Learning (to be added)
-12) Tensor Flow (to be added)
+12) Tensor Flow 
 13) Simple Analysis (to be added)
